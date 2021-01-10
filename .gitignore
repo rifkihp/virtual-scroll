@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+dist/
+lib/
+*.log
+*.swp
+*.DS_Store
